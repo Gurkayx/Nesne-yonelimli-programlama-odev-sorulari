@@ -1,0 +1,28 @@
+# IDE dosyaları
+.idea/
+*.iml
+.vscode/
+
+# Derleme çıktıları
+*.class
+target/
+out/
+
+# README dosyası
+README.md
+
+# Log dosyaları
+*.log
+
+# Package dosyaları
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Diğer
+.DS_Store
+Thumbs.db 
