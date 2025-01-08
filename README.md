@@ -71,7 +71,7 @@ Farklı taşıt türlerini yöneten bir sistem.
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/[kullanici-adi]/Nesne-yonelimli-programlama-odev-sorulari.git
+https://github.com/Gurkayx/Nesne-yonelimli-programlama-odev-sorulari.git
 ```
 
 2. İlgili projenin dizinine gidin:
